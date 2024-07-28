@@ -4,4 +4,4 @@ We're Nodebrew, a nonprofit working to make tech more inclusive. Our mission is 
 
 Through community-driven events like our flagship hackathon Hack Brew, we bring together passionate people to learn, build, and grow. We mentor, advocate, and forge partnerships that advance diversity across the industry. There's so much potential for technology to be a force for good - but only if it's accessible to all. We believe in the power of lifting each other up.
 
-Find us on [LinkedIn](https://www.linkedin.com/comapny/nodebrew) and checkout our website [Website](https://www.nodebrew.org)
+Find us on [LinkedIn](https://www.linkedin.com/comapny/nodebrew) and checkout our [Website](https://www.nodebrew.org)
